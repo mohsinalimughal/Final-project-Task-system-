@@ -34,7 +34,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## File Structure
 
-- `task_manager.py`: Main Python script containing task management functions.
+- `task-system.py`: Main Python script containing task management functions.
 - `tasks.json`: JSON file where tasks are stored.
 
 ## Contributing
