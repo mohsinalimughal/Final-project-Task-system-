@@ -23,16 +23,12 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```bash
     git clone https://github.com/yourusername/your-repository.git
     ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
 1. Run the following command in your terminal to start the Task Manager program:
     ```bash
-    python task_manager.py
+    python task-system.py
     ```
 2. Follow the on-screen instructions to manage your tasks effectively.
 
