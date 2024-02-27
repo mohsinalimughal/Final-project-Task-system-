@@ -1,6 +1,6 @@
-# Task Manager
+# Task System
 
-Task Manager is a command-line program that allows users to manage their tasks efficiently. Users can add, view, update, and delete tasks using this program. Tasks are stored in a JSON file for persistence.
+Task System is a command-line program that allows users to manage their tasks efficiently. Users can add, view, update, and delete tasks using this program. Tasks are stored in a JSON file for persistence.
 
 ## Features
 
